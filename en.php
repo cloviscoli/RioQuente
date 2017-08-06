@@ -678,12 +678,12 @@ $site_lang = [
 'pm_no_msg' => "Não há mensagens nessa conversa.",
 'pm_first_move' => 'Faça o primeiro movimento!',
 'pm_reported_msg' => 'A mensagem foi marcada como spam e removida.',
-'pm_delete_no_message_id' => "A mensagem não poderia ser removida, porque a ID não poderia ser identificada".,
-'pm_not_found' => 'A mensagem não pôde ser encontrada, ou foi removida recentemente'.,
+'pm_delete_no_message_id' => "A mensagem não poderia ser removida, porque a ID não poderia ser identificada.",
+'pm_not_found' => 'A mensagem não pôde ser encontrada, ou foi removida recentemente.',
 'pm_error_edit' => 'Desculpe, ocorreu um erro na mensagem de atualização, tente novamente.',
 'pm_us_exist_blacklist' => 'Este usuário já está na sua lista negra.',
-'pm_no_opponent_id' => "Desculpe um erro técnico, não podemos terminar sua ação".,
-'pm_err_delete_conv' => "Desculpe, ocorreu um erro técnico ao excluir a conversa, tente novamente".,
+'pm_no_opponent_id' => "Desculpe um erro técnico, não podemos terminar sua ação.",
+'pm_err_delete_conv' => "Desculpe, ocorreu um erro técnico ao excluir a conversa, tente novamente.",
 'pm_placeholder' => 'Digite mensagem aqui',
 
 

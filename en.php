@@ -644,7 +644,7 @@ $site_lang = [
 
 // index login box
 'lg_reg_btn' => 'Registro',
-'lg_login_btn' => 'Cadastro',
+'lg_login_btn' => 'Entrar',
 'lg_email_field' => 'Email',
 'lg_pass_field' => 'Senha',
 'lg_remember_checkbox' => 'Lembrar',

@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="24" height="24">
-	<path d="M 4 4 L 44 4 L 44 44 Z" fill="{{app.setting.color.accent}}" />
-	<path d="M 4 4 L 34 4 L 24 24 Z" fill="rgba(0,0,0,0.15)" />
-	<path d="M 4 4 L 24 4 L 4  44 Z" fill="{{app.setting.color.primary}}" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path d="M2,2h20v20L2,2z"/>
+<path d="M2,2h15l-5,10L2,2z"/>
+<path d="M2,2h10L2,22V2z"/>
 </svg>

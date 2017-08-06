@@ -189,7 +189,6 @@ $site_lang = [
 'Friends_online' => 'Amigos online',
 'more_friends_more_fun' => 'Quanto mais amigos você adiciona, mais divertido fica!',
 'People_you_may_know' => 'Pessoas que você talvez conheça',
-
 'My_subscriptions' => 'Minhas assinaturas',
 'create_photo_album' => 'Criar álbum de fotos',
 'photos' => 'fotos',
@@ -276,7 +275,6 @@ $site_lang = [
 'no_guests' => 'Você ainda não conviveu convidados, faça mais amigos.',
 'friends' => 'amigos',
 'user_is_not_your_friend' => 'Desculpe, este usuário não foi encontrado como seu amigo.',
-
 'accepted_your_friend_request' => 'Tornou-se seu amigo, foi aceito o seu pedido de amizade',
 'declined_your_friend_request' => 'recusou sua solicitação de amizade',
 'friend_indicate' => 'e indicou que você é',
